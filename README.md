@@ -1,1 +1,1 @@
-# goit-react-hw-01-components
+# Vite template with react and sass
