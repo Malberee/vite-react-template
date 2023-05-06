@@ -1,8 +1,5 @@
 # Vite template React
 
-A brief description of what this project does and who it's for
-
-
 ## Used libraries
 
 - Styled components
