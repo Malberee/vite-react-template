@@ -1,1 +1,13 @@
-# Vite template with react and sass
+# Vite template React
+
+A brief description of what this project does and who it's for
+
+
+## Used libraries
+
+- Styled components
+- PropTypes
+- Generate React CLI
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="200" height="200">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width="200" height="200">
